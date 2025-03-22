@@ -1,0 +1,17 @@
+[project]
+name = "thepalette"
+version = "0.0.6"
+authors = [
+  { name="Mohammad Parsa Mortazavi", email="mpmms@proton.me" },
+]
+description = "A Color Palette..."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/mpmms/thepalette"
