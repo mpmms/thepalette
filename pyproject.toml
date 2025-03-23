@@ -1,6 +1,6 @@
 [project]
 name = "thepalette"
-version = "0.0.6"
+version = "0.1.0"
 authors = [
   { name="Mohammad Parsa Mortazavi", email="mpmms@proton.me" },
 ]
@@ -15,3 +15,4 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://github.com/mpmms/thepalette"
+Issues = "https://github.com/mpmms/thepalette/issues"
